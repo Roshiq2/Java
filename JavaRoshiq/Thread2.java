@@ -1,0 +1,4 @@
+interface Roshiq{
+    void fazil();
+
+}
